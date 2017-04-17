@@ -1,7 +1,7 @@
 # test coverage for  [moment-timezone (v0.5.13)](http://momentjs.com/timezone/)  [![npm package](https://img.shields.io/npm/v/npmtest-moment-timezone.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-moment-timezone) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-moment-timezone.svg)](https://travis-ci.org/npmtest/node-npmtest-moment-timezone)
 #### Parse and display moments in any timezone.
 
-[![NPM](https://nodei.co/npm/moment-timezone.png?downloads=true)](https://www.npmjs.com/package/moment-timezone)
+[![NPM](https://nodei.co/npm/moment-timezone.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/moment-timezone)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-moment-timezone/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-moment-timezone/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-moment-timezone/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-moment-timezone/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-moment-timezone/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-moment-timezone/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-moment-timezone/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-moment-timezone/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-moment-timezone/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-moment-timezone/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-moment-timezone%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-moment-timezone/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-moment-timezone/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-moment-timezone/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-moment-timezone/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-moment-timezone%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-moment-timezone/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-moment-timezone/build/test-report.html](https://npmtest.github.io/node-npmtest-moment-timezone/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-moment-timezone/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-moment-timezone/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-moment-timezone/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-moment-timezone/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-moment-timezone/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-moment-timezone/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-moment-timezone/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +34,6 @@
 {
     "author": {
         "name": "Tim Wood",
-        "email": "washwithcare@gmail.com",
         "url": "http://timwoodcreates.com/"
     },
     "bugs": {
@@ -79,25 +84,20 @@
     "main": "./index.js",
     "maintainers": [
         {
-            "name": "ichernev",
-            "email": "iskren.chernev@gmail.com"
+            "name": "ichernev"
         },
         {
-            "name": "maggiepint",
-            "email": "maggiepint@gmail.com"
+            "name": "maggiepint"
         },
         {
-            "name": "mj1856",
-            "email": "mj1856@hotmail.com"
+            "name": "mj1856"
         },
         {
-            "name": "timrwood",
-            "email": "washwithcare@gmail.com"
+            "name": "timrwood"
         }
     ],
     "name": "moment-timezone",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/moment/moment-timezone.git"
