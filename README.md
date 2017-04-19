@@ -1,4 +1,7 @@
-# test coverage for  [moment-timezone (v0.5.13)](http://momentjs.com/timezone/)  [![npm package](https://img.shields.io/npm/v/npmtest-moment-timezone.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-moment-timezone) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-moment-timezone.svg)](https://travis-ci.org/npmtest/node-npmtest-moment-timezone)
+# npmtest-moment-timezone
+
+#### test coverage for  [moment-timezone (v0.5.13)](http://momentjs.com/timezone/)  [![npm package](https://img.shields.io/npm/v/npmtest-moment-timezone.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-moment-timezone) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-moment-timezone.svg)](https://travis-ci.org/npmtest/node-npmtest-moment-timezone)
+
 #### Parse and display moments in any timezone.
 
 [![NPM](https://nodei.co/npm/moment-timezone.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/moment-timezone)
