@@ -1,6 +1,6 @@
 # npmtest-moment-timezone
 
-#### test coverage for  [moment-timezone (v0.5.13)](http://momentjs.com/timezone/)  [![npm package](https://img.shields.io/npm/v/npmtest-moment-timezone.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-moment-timezone) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-moment-timezone.svg)](https://travis-ci.org/npmtest/node-npmtest-moment-timezone)
+#### basic test coverage for  [moment-timezone (v0.5.13)](http://momentjs.com/timezone/)  [![npm package](https://img.shields.io/npm/v/npmtest-moment-timezone.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-moment-timezone) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-moment-timezone.svg)](https://travis-ci.org/npmtest/node-npmtest-moment-timezone)
 
 #### Parse and display moments in any timezone.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-moment-timezone/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-moment-timezone/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-moment-timezone/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-moment-timezone/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-moment-timezone/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-moment-timezone/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-moment-timezone/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-moment-timezone/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-moment-timezone/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-moment-timezone/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-moment-timezone/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-moment-timezone/build/coverage.html/index.html)
 
@@ -108,7 +108,8 @@
     "scripts": {
         "test": "grunt"
     },
-    "version": "0.5.13"
+    "version": "0.5.13",
+    "bin": {}
 }
 ```
 
